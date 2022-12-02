@@ -1,3 +1,5 @@
+#Updates to be made: when an error occurs, allowing the user to retry the input.
+
 #This repository uses various calculations and convertors to return the pace of a run.
 
 #The pace_calculator.py is the full program that times in units, distance, time, and returns the pace.
